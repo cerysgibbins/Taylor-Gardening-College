@@ -1,0 +1,129 @@
+body {
+	background: white url(images/CreamBackground.jpg) repeat top left;  
+}
+
+#header {
+ background: #94533d;
+}
+
+#navigation {
+	background:#FFF;
+	color:#000;
+	padding-left: 155px;
+	font-size:12px;
+}
+
+#navigation li {
+	float: left;
+	margin-right: 50px;		
+	margin-top: 60px;
+}
+
+#navigation a {
+	text-decoration:none;
+	text-decoration:underline;
+	color: #FFFFFF;
+	font-weight: bold; 
+	
+}
+
+#navigation a:hover {
+	color:#F90; 
+}
+
+
+#search {
+	margin-top: 100px;
+	margin-right: 200px; 
+}
+
+#searchform {
+	clear: left;
+	padding-top: 40px; 
+	padding-bottom: 23px;
+	padding-left: 550px;
+}
+
+
+#container {
+	margin:0 auto;
+	padding: 0x 10px;
+	width: 768px;
+	background-color: white;
+}
+
+
+
+#header_logo {
+	display: block;
+	position: absolute;
+	padding-top: 8px;
+	margin-left:20px;
+	}
+
+
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #fa7b26;
+	font-size: 16px;
+	padding-top: 0px; 
+}
+
+p {
+	padding: 10px;
+}
+
+#content {
+	padding-top: 102px;
+}
+
+#images-index {
+	margin: 18px; 
+}
+
+#images-gallery {
+	padding: 18px;
+	background: #f9e7db;
+}
+
+#image-phone {
+	padding-left: 195px;
+	
+}
+
+#images-services {
+	padding: 65px;
+	background: #f9e7db;
+
+}
+
+#content-left {
+	float: left;
+	width: 768px;
+	margin-top:0px;
+	background: #f9e7db;
+}
+
+#content-left2  {
+	float: left;
+	width: 768px;
+	margin-top:0px;
+	background: #f9e7db;
+}
+
+#content-left3 {
+	float: left;
+	width: 768px;
+	margin-top:0px;
+	background: #f9e7db;
+}
+
+#footer {
+	clear: left; 
+	margin-right: 50px;		
+	margin-bottom: 60px;
+	color: #fa7b26; 
+	background: #f9e7db;
+	width: 768px;
+}
